@@ -16,22 +16,23 @@
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
 		<list key="orderedElements">
-			<item value="org.eclipse.jdt.ui.edit.text.java.create.getter.setter"/>
+			<item value="search.in.help"/>
 		</list>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.commands"/>
+			<item value="search.help"/>
 		</list>
 		<list key="textEntries">
 			<item value="1"/>
 		</list>
 		<list key="textArray">
-			<item value="ggas"/>
+			<item value="finalize"/>
 		</list>
 	</section>
 	<section name="ZipFileExportWizard">
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/home/accountfy/Área de Trabalho/GlobalImpact.zip"/>
 			<item value="/home/accountfy/Área de Trabalho/CP2e3.zip"/>
 			<item value="/home/accountfy/Área de Trabalho/ChallengeDomainDrivenDesign.zip"/>
 			<item value="/home/accountfy/Área de Trabalho/Challenge.zip"/>
